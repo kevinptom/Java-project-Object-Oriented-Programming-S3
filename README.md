@@ -120,6 +120,6 @@ A big thanks to everyone who contributed to this project.
 | **Kevin P Tom** | `@kevinptom` | Lead Developer |
 | Kevin Joseph | `@kevin-creater` | Frontend Developer |
 | Savio Bijo Thomas | `@savio-bijo-thomas` | Backend Developer |
-| Pace Petson | '@github | Frontend Developer |
+| Pace Petson | '@Pacepetson | Frontend Developer |
 
 
